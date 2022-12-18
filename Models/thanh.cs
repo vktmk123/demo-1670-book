@@ -2,5 +2,6 @@
 {
     public class thanh
     {
+        public int Id { get; set; } 
     }
 }
