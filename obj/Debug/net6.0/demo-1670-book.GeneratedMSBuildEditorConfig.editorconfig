@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = demo_1670_book
 build_property.RootNamespace = demo_1670_book
-build_property.ProjectDir = C:\Users\FPTSHOP-ASUS\Source\Repos\vktmk123\demo-1670-book\
+build_property.ProjectDir = C:\Users\FPTSHOP-ASUS\source\repos\vktmk123\demo-1670-book\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\FPTSHOP-ASUS\Source\Repos\vktmk123\demo-1670-book
+build_property.MSBuildProjectDirectory = C:\Users\FPTSHOP-ASUS\source\repos\vktmk123\demo-1670-book
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/FPTSHOP-ASUS/source/repos/vktmk123/demo-1670-book/Areas/Identity/Pages/_ViewStart.cshtml]
